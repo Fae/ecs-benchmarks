@@ -1,0 +1,18 @@
+{
+  "name": "@fae/ecs-benchmarks",
+  "version": "1.0.0",
+  "description": "Benchmarks of a bunch of ECS frameworks.",
+  "author": "Chad Engler <chad@pantherdev.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "beautify-benchmark": "^0.2.4",
+    "benchmark": "^2.1.1",
+    "makr": "^2.1.1",
+    "require-dir": "^0.3.0",
+    "tiny-ecs": "^2.0.0",
+    "yagl-ecs": "^1.0.0"
+  }
+}
